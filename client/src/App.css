@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&family=Satisfy&display=swap");
+
+.App {
+  height: 100vh;
+  background-color: #d8d8d8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 1s ease-in;
+  font-family: "Nova Square", sans-serif;
+}
